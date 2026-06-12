@@ -8,7 +8,6 @@
 
 ## 一、项目概述
 
-[video(video-25oWsSq1-1781251574056)(type-csdn)(url-https://live.csdn.net/v/embed/530884)(image-https://i-blog.csdnimg.cn/direct/e068681c9770487e8fa0f13c92adb048.png)(title-【万字文档+源码】基于springboot+vue电池销售系)]
 
 ### 1\.1 项目背景
 
