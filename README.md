@@ -1,6 +1,9 @@
 # Battery-Sales-Management-System
 【万字文档+源码】基于springboot+vue电池销售系统 -学习项目资料分享-随着电池消费市场的不断发展，传统线下电池销售存在信息不透明、渠道分散、管理效率低等问题，用户难以快速找到适配的电池产品，商家与管理员也缺乏高效的线上运营与管控工具。本项目基于 SpringBoot+Vue 前后端分离架构，打造集用户购物、商家运营、管理员管控于一体的电池销售系统，实现电池产品的线上展示、交易、管理全流程数字化，提升电池销售行业的服务效率与用户体验。
 
+---
+# 资料获取  点击  [**《基于springboot+vue电池销售系统》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+---
 
 
 ## 一、项目概述
